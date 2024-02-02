@@ -1,0 +1,6 @@
+.emojiWindow {
+     height: 200px; 
+     overflow: auto; 
+     white-space: pre-wrap;
+     min-height: 200px;
+}
